@@ -5,3 +5,5 @@ I mean who hasn't been in that annoying situation. In this case you can use this
 # Availability 🤑
 - Soon on the #Apple Appstore📱
 - Soon to be on #GooglePlay🧩
+
+![Dice roller Demo](lib/ui presentation.gif)
