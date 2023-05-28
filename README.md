@@ -6,4 +6,5 @@ I mean who hasn't been in that annoying situation. In this case you can use this
 - Soon on the #Apple Appstore📱
 - Soon to be on #GooglePlay🧩
 
-![Dice roller Demo]('https://github.com/squirelboy360/dice/blob/main/lib/ui%20presentation%20.gif?raw=true')
+![Dice roller Demo](')
+![Figure 1-1](https://github.com/squirelboy360/dice/blob/main/lib/ui%20presentation%20.gif?raw=true)
